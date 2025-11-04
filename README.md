@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header)
+
 <h1 align="center">Hi 👋, I'm Meriem Abdesselam</h1>
 <h3 align="center">💻 Developer | 🧠 AI & Image Processing Enthusiast | 🎮 Game Dev & Blender Artist</h3>
 
@@ -10,6 +12,11 @@
 * 🎨 I use **Blender** for 3D design and modeling
 * 🌱 Currently learning more about **machine learning and data visualization**
 * 💬 Ask me about **Python, AI projects, or Blender art**
+
+
+### 🚀 Currently Working On
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdesselam-meriem&repo=your-repo-name&theme=radical)](https://github.com/abdesselam-meriem/your-repo-name)  
 
 ---
 
