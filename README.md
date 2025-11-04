@@ -16,7 +16,7 @@
 
 ### 🚀 Currently Working On
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdesselam-meriem&repo=your-repo-name&theme=radical)](https://github.com/abdesselam-meriem/game1.git)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdesselam-meriem&repo=game1&theme=radical)](https://github.com/abdesselam-meriem/game1.git)  
 
 ---
 
