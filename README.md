@@ -11,7 +11,10 @@
 * 🧩 I love exploring **image processing** and **computer vision**
 * 🎨 I use **Blender** for 3D design and modeling
 * 🌱 Currently learning more about **machine learning and data visualization**
-* 💬 Ask me about **Python, AI projects, or Blender art**
+
+
+![Learning](https://img.shields.io/badge/Currently_Learning-AI_&_Image_Processing-ff69b4?style=for-the-badge)
+![Loves](https://img.shields.io/badge/Loves-Python_&_Blender-blueviolet?style=for-the-badge)
 
 
 ### 🚀 Currently Working On
@@ -50,6 +53,21 @@
 
 ---
 
+### 📊 GitHub Stats:
+
+![Meriem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdesselam-meriem&show_icons=true&theme=rose_pine)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdesselam-meriem&theme=rose_pine)]()
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdesselam-meriem&theme=rose_pine)]()
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdesselam-meriem&theme=rose_pine)]()
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdesselam-meriem&theme=rose_pine)]()
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdesselam-meriem&theme=rose_pine&utcOffset=1)]()
+
+
+![Meriem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdesselam-meriem&theme=catppuccin-latte&area=true)
+
+
+---
 ### 🧩 Other Skills & Interests:
 
 - Image Processing & Computer Vision  
@@ -61,14 +79,6 @@
 ---
 
 ⭐ *Always learning, creating, and exploring new technologies!*
-
----
-
-### 📊 GitHub Stats:
-
-![Meriem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdesselam-meriem\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdesselam-meriem\&layout=compact\&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdesselam-meriem\&theme=tokyonight)
 
 ---
 
