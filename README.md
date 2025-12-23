@@ -19,7 +19,8 @@
 
 ### 🚀 Currently Working On
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdesselam-meriem&repo=game1&theme=radical)](https://github.com/abdesselam-meriem/game1.git)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdesselam-meriem&repo=python_folder&theme=radical)](https://github.com/abdesselam-meriem/python_folder.git)
+
 
 ---
 ### 🧠 Tech Stack:
