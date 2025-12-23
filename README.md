@@ -1,21 +1,15 @@
 ![Genshin Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Meriem%20Abdesselam&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Developer%20%7C%20Computer%20Vision%20AI%20%7C%20Game%20Dev&descSize=20&descAlignY=50&gradient=7B68EE-FF69B4)
 
-<p>Hi, I'm Meriem Abdesselam</p>
 <p>💻 Developer | AI & Image Processing Enthusiast | 🎮 Game Dev & Blender Artist</p>
 
 ---
 
 ### 🚀 About Me:
 
-* 🔭 I’m passionate about **AI, Python, and game development**
-* 🧩 I love exploring **image processing** and **computer vision**
-* 🎨 I use **Blender** for 3D design and modeling
+* 🔭 Passionate about **AI, Python, and game development**
+* 🧩 Interested in  **image processing** and **computer vision**
+* 🎨 Use **Blender** for 3D design and modeling
 * 🌱 Currently learning more about **machine learning and data visualization**
-
-
-![Learning](https://img.shields.io/badge/Currently_Learning-AI_&_Image_Processing-ff69b4?style=for-the-badge)
-![Loves](https://img.shields.io/badge/Loves-Python_&_Blender-blueviolet?style=for-the-badge)
-
 
 ### 🚀 Currently Working On
 
@@ -30,7 +24,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
@@ -70,11 +64,11 @@
 ---
 ### 🧩 Other Skills & Interests:
 
-- Image Processing & Computer Vision  
+- Computer Vision & Image Processing  
 - Game Mechanics & 3D Design  
 - UI/UX & Visual Design  
-- Project Organization with Notion  
-- Git Workflow & Collaboration  
+- Version Control & Team Collaboration  
+- Project Organization (Notion)  
 
 ---
 
