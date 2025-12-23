@@ -60,7 +60,6 @@
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdesselam-meriem&theme=rose_pine)]()
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdesselam-meriem&theme=rose_pine)]()
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdesselam-meriem&theme=rose_pine)]()
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdesselam-meriem&theme=rose_pine)]()
 [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdesselam-meriem&theme=rose_pine&utcOffset=1)]()
 
