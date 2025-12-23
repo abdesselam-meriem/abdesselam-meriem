@@ -1,4 +1,4 @@
-![Genshin Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Meriem%20Abdesselam&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Game%20Dev&descSize=20&descAlignY=50&gradient=7B68EE-FF69B4)
+![Genshin Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Meriem%20Abdesselam&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Developer%20%7C%20Computer%20Vision%20AI%20%7C%20Game%20Dev&descSize=20&descAlignY=50&gradient=7B68EE-FF69B4)
 
 <p>Hi, I'm Meriem Abdesselam</p>
 <p>💻 Developer | AI & Image Processing Enthusiast | 🎮 Game Dev & Blender Artist</p>
