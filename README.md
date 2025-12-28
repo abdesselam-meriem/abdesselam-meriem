@@ -50,7 +50,7 @@
 
 ### 📊 GitHub Stats:
 
-![Meriem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdesselam-meriem&show_icons=true&theme=rose_pine)
+
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdesselam-meriem&theme=rose_pine)]()
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdesselam-meriem&theme=rose_pine)]()
